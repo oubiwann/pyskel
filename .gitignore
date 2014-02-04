@@ -2,3 +2,4 @@
 .tox
 .v*env
 build
+*.egg*
